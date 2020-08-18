@@ -1,0 +1,2 @@
+include ':MundiYTPlayer'
+rootProject.name = "MundiYTPlayer"
